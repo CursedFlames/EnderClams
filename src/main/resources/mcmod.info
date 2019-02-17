@@ -1,8 +1,8 @@
 [
 {
   "modid": "enderclam",
-  "name": "EnderClam",
-  "description": "TODO: description",
+  "name": "EnderClams",
+  "description": "Clams, with ender pearls. Because nobody likes spending all night hunting endermen.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
