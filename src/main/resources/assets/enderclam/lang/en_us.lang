@@ -1,0 +1,5 @@
+﻿
+tile.enderclam.clam.name=Ender Clam
+item.enderclam.clamshell.name=Clamshell
+item.enderclam.wand.name=Ender Harvester
+item.enderclam.wand.tooltip.0=Teleports pearls out of clams without destroying them

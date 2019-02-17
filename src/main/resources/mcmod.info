@@ -1,0 +1,18 @@
+[
+{
+  "modid": "enderclam",
+  "name": "EnderClam",
+  "description": "TODO: description",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CursedFlames"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "useDependencyInformation": true,
+  "requiredMods": ["cursedlib@[0.0.7,)"],
+  "dependencies": ["cursedlib"]
+}
+]
